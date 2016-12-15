@@ -13,6 +13,3 @@ First Three Quarter of Year 2016 of Lending Club Data
 Lending Club Data Dictionary
 
 Census Data by Zip-code
-
-Ac209 Class Project Repository. 
-
